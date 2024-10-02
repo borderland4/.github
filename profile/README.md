@@ -4,13 +4,13 @@
 
 🔗 I love diving deep into the world of blockchain, contributing to various projects, and exploring the latest advancements in the industry. My focus is on ensuring the reliability and security of blockchain networks through meticulous node management and validator setup.
 
-### 📚 My Guides
+### 📚 My Expirience
 
-| <img src="https://github.com/borderland4/0g-labs-guides/blob/main/0gIcon.jpg" width="300"> | <img src="https://github.com/borderland4/babylonchain-guide/blob/main/babylonIcon.jpg" width="300"> |
-|:--:|:--:|
-| **🌐 0G Labs**  | **🌍 Babylon**  |
-| [📄 0G Storage Node Guide](https://github.com/borderland4/0g-labs-guides/blob/main/0G%20Storage%20Node%20Guide.md) | [📄 Babylon Chain Full Node Guide](https://github.com/borderland4/babylonchain-guide/blob/main/Babylonchain%20Node%20Guide.md) |
-| [📄 0G Storage KV Node Guide](https://github.com/borderland4/0g-labs-guides/blob/main/0g%20Storage%20KV%20Node%20Guide.md) |  |
+| <img src="https://github.com/borderland4/0g-labs-guides/blob/main/0gIcon.jpg" width="300"> | <img src="https://github.com/borderland4/babylonchain-guide/blob/main/babylonIcon.jpg" width="300"> | ![image](https://github.com/user-attachments/assets/d3ddda4a-9e8e-4374-837a-445e209ccf15) | ![image](https://github.com/user-attachments/assets/fb652a21-97cc-42b9-8422-e77598a98c83) |
+|:--:|:--:|:--:|:--:|
+| **🌐 0G Labs**  | **🌍 Babylon**  | **♦️ Ritual** | **👀 Bool Network** |
+| [📄 0G Storage Node Guide](https://github.com/borderland4/0g-labs-guides/blob/main/0G%20Storage%20Node%20Guide.md) | [📄 Babylon Chain Full Node Guide](https://github.com/borderland4/babylonchain-guide/blob/main/Babylonchain%20Node%20Guide.md) | [📄 Ritual: Decentralized AI Compute Platform](https://medium.com/@gerbayyyy3/ritual-decentralized-ai-compute-platform-4f9eedd15d85) | asd |
+| [📄 0G Storage KV Node Guide](https://github.com/borderland4/0g-labs-guides/blob/main/0g%20Storage%20KV%20Node%20Guide.md) | - | - | - |
 
 🚀 I'm always excited to collaborate on projects that push the boundaries of what's possible with blockchain technology. Let's build the future together!
 
